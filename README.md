@@ -1,4 +1,4 @@
-**Windows Terminal open here**
+**Windows Terminal open here.reg**
 
 Add to context menu two options: 
 - Open Windows Terminal
